@@ -1,1 +1,1 @@
-docker
+Choose branch with docker-compose you like or download all from master :)
